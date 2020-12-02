@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Golf Google Street View",
+"productVersion": "0.1",
+"dataUrl": "Google Street View.data.unityweb",
+"wasmCodeUrl": "Google Street View.wasm.code.unityweb",
+"wasmFrameworkUrl": "Google Street View.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.13f1"
+}
